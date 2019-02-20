@@ -39,5 +39,5 @@ console.log(title.className);
 function init() {
     title.addEventListener("click", handleClick);
 }
-
+alert("깃허브 테스트");
 init();
