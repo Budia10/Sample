@@ -18,7 +18,7 @@ console.log(title.className);
 function init() {
     title.addEventListener("click", handleClick);
 }
-=======
+
 const title = document.querySelector("#title");
 
 const CLICKED_CLASS = "clicked";
@@ -39,5 +39,5 @@ console.log(title.className);
 function init() {
     title.addEventListener("click", handleClick);
 }
->>>>>>> VSC에서 push
+
 init();
