@@ -1,0 +1,62 @@
+<<<<<<< HEAD
+body{
+  background-color: #ecf0f1;
+}
+
+.btn{
+  cursor: pointer;
+}
+
+body{
+  color: #c0392b;
+}
+/* Airy Blue */
+
+/* #title{
+  color: #034F84; 
+} */
+/* Snorkel Blue */
+
+.clicked {
+  color: #bdc3c7;
+}
+
+.form,
+.greetings{
+  display: none;
+}
+
+.showing {
+  display: block;
+=======
+body{
+  background-color: #ecf0f1;
+}
+
+.btn{
+  cursor: pointer;
+}
+
+body{
+  color: #c0392b;
+}
+/* Airy Blue */
+
+/* #title{
+  color: #034F84; 
+} */
+/* Snorkel Blue */
+
+.clicked {
+  color: #bdc3c7;
+}
+
+.form,
+.greetings{
+  display: none;
+}
+
+.showing {
+  display: block;
+>>>>>>> VSC에서 push
+}
